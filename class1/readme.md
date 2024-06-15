@@ -1,3 +1,5 @@
+ 
+ ## GOOD TO KNOW STUFF
  ## A CDN is a network of servers used to deliver content efficiently by distributing it geographically. When importing React from a CDN, you benefit from faster load times, browser caching, and reduced server load. This is especially useful for improving the performance and user experience of your React applications.
 
 **************************************************************************************************************************************************
