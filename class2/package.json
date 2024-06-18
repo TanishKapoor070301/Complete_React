@@ -1,0 +1,19 @@
+{
+  "name": "class2",
+  "version": "1.0.0",
+  "description": "this is namaste react class 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "React_class_2"
+  ],
+  "author": "TanishKapoor",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
+
+     
